@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 464 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 465 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -1249,6 +1249,18 @@ Hosted server to search expired, auction and backorder domains with SEO metrics,
 - Tags: domains, seo, expired-domains, whois
 - Category: Browsers, Search, and Web Automation
 - Streamable HTTP endpoint: https://mcp.karma.domains/mcp
+
+### LifeVerse Product Discovery
+
+Discover, search, inspect, and recommend eleven public LifeVerse AI products and interactive experiences through four read-only tools.
+
+- URL: https://github.com/lifeversegu/lifeverse-mcp
+- Language: TypeScript
+- Provider: LifeVerse
+- Official: yes
+- Tags: product-discovery, recommendations, read-only, remote
+- Category: Browsers, Search, and Web Automation
+- Streamable HTTP endpoint: https://lifeverse.gufreelancer.com/api/mcp
 
 ### looot
 
